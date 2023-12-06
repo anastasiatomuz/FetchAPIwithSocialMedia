@@ -1,0 +1,39 @@
+#userDiv article {
+    width: 45%;
+    float: left;
+    background-color: rgb(154, 174, 248);
+}
+
+#postDiv article {
+    width: 80%;
+    float: left;
+    background-color: rgb(231, 248, 154);
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#commentsDiv article {
+    width: 90%;
+    float: left;
+    background-color: rgb(154, 248, 156);
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+  
+section p {
+    margin: 5px 0;
+}
+  
+h3 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+  
+
+article{
+    border-radius: 5%;
+    text-align: center;
+    margin: 10px;
+}
